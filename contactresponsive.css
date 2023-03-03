@@ -1,0 +1,71 @@
+#contact h1 {
+    margin: 16px;
+    margin-top: 24px;
+}
+
+#navbar ul li {
+    margin: 0px;
+    list-style: none;
+}
+
+#navbar ul li a {
+    text-decoration: none;
+    padding: 5px;
+    font-size: 17px;
+    margin: 0px;
+    color: white;
+    border-radius: 4px;
+}
+#navbar #logo {
+    color: white;
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#myform form input {
+    display: block;
+    width: 180px;
+    margin: 15px;
+    height: 38px;
+    border-radius: 8px;
+    background-color: #e0c8cc;
+    font-size: 11px;
+    padding: 12px;
+    color: #710b71;
+    outline: none;
+}
+
+.btn {
+    background-color: purple;
+    border-radius: 5px;
+    height: 34px;
+    width: 70px;
+    color: white;
+}
+
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background-color: #deaaaa;
+}
+
+#location {
+    width: 106px;
+    height: 38px;
+    background-color: #e0c8cc;
+    
+}
+
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+    font-size: 10px;
+}

@@ -1,0 +1,160 @@
+    #mission>h1{
+        font-size:29px;
+
+
+    }
+
+    #navbar ul li {
+        margin: 0px;
+        list-style: none;
+    }
+
+    #navbar ul li a {
+        text-decoration: none;
+        padding: 5px;
+        font-size: 17px;
+        margin: 0px;
+        color: white;
+        border-radius: 4px;
+    }
+    #navbar #logo {
+        color: white;
+        font-size: 13px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .card {
+        border: 2px solid black;
+        border-radius: 5px;
+        width: 193px;
+        height: 232px;
+        font-size: 10px;
+        margin: 18px;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        background-color: rgb(247, 238, 247);
+        transition-property: transform;
+        transition-duration: 1s;
+    }
+
+    .container div.para {
+        width: 191px;
+        padding: 4px;
+        font-size: 11px;
+        margin-left: -4px;
+        height: 185px;
+        padding-top: 60px;
+    }
+
+    .container img {
+        height: 101px;
+        width: 197px;
+    }
+
+    .card div.container {
+        font-size: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: -2px;
+    }
+
+    #sponsor h1 {
+        font-size: 29px;
+        margin: 10px;
+        transition-property: font-size;
+        transition-duration: 1s;
+    }
+
+
+
+
+    #mission div#layout {
+        display: flex;
+        flex-direction: column;}
+        #dell {
+            width: 91px;
+            margin: 1px;
+        }
+
+        #hp {
+            width: 102px;
+            margin: 28px;
+        }
+
+        #apple {
+            width: 116px;
+            margin: 1px;
+        }
+        #microsoft {
+            width: 189px;
+            margin: 10px;
+        }
+
+       #navbar ul li a {
+    text-decoration: none;
+    padding: 5px;
+    font-size: 17px;
+    margin: 0px;
+    color: white;
+    border-radius: 4px;
+}
+       #welcome{
+        font-size: 22px;}
+
+        #welcome #banner {
+            font-size: 22px;
+            margin-top: 70px;
+        }
+
+        #dell {
+            width: 65px;
+            margin: 14px;
+        }
+
+        #apple {
+            width: 90px;
+            margin: 1px;
+        }
+
+        #microsoft {
+            width: 166px;
+            margin: 10px;
+        }
+
+        #logoimages {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        footer {
+            background-color: black;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 45px;
+            font-size: 10px;
+        }
+    
+
+
+        #welcome img {
+            transform: rotate(360deg);
+            height: 100px;
+            height: 110px;
+            margin-top: 28px;
+            position: relative;
+            animation-name: dancing;
+            animation-duration: 4s;
+            animation-iteration-count: 2;
+            animation-timing-function: ease-in-out;
+        }
+
+       
